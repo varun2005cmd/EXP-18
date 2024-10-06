@@ -1,4 +1,4 @@
-# Experiment 18 : - To study and implement Stack implementation using array.  Menu options - i) Push ii) Pop iii) Display iv) exit
+# Experiment 18 : - To study and implement Stack implementation using array.  
 
 ## Aim: -
 To execute and run a menu style code which has different stack operations without using the stack header file
@@ -56,6 +56,8 @@ A stack is a linear data structure that follows the LIFO (Last In, First Out) pr
   
 ## Code
 ~~~
+// Varun Pendem
+// PRN: 23070123149
 #include <iostream>
 #define MAX 5
 
