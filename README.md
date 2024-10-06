@@ -124,7 +124,9 @@ int main() {
 ~~~
 
 ## Code Output: -
-![](https://github.com/Sundar13905/Stack/blob/main/Stack_output.png)
+
+![image](https://github.com/user-attachments/assets/22040704-0567-4815-a9c9-19ef8c1dee10)
+
 
 ## Conclusion
 Leant how to implement the different operations of stack without using the stack header file in C++.
